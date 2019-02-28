@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Doviz Kurları</string>
+    <string name="cevir">Çevir</string>
+    <string name="turkish">Türk Lirası</string>
+    <string name="americanD">ABD Doları</string>
+    <string name="euro">Euro</string>
+    <string name="sterlin">İngiliz Sterlini</string>
+    <string name="rus">Rus Rublesi</string>
+    <string name="reset">Sıfırla</string>
+</resources>
